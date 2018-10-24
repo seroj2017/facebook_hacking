@@ -1,3 +1,5 @@
+1) To generate password in wordlist.txt - node index.js
+
 1) To start - perl Zhacker.pl
 
-2) perl Zhacker.pl 'facebook_id' 'woedlist.txt'
+2) To hucking profile - perl Zhacker.pl 'facebook_id' 'woedlist.txt'
